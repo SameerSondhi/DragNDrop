@@ -1,1 +1,1 @@
-# DragNDrop
+# Basic drag n' drop application built with TypeScript. A user can add a project or task and move it by dragging and dropping into a finished section or from the finished section back to the 'starting' section
